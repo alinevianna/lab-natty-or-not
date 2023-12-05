@@ -2,47 +2,32 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Lendas que ecoam na escuridão
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve projeto explorando algumas IAs generativas na versão gratuita. Uso de vídeo, texto, som, legenda e animação. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-Chat GPT
+-Leonardo AI
+-Bing Image AI
+-HeyGen
+-Animaker
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Por ter nascido e crescido em Minas Gerais, sempre convivi com meus avós e suas histórias da roça. Criei brevemente uma introdução sobre uma das lendas que mais gostava quando criança, a do lobisomem. A partir da ideia inicial, comecei a geração de textos contando um pouco da lenda e da história, por conta das limitações das IAs gratuitas, optei por uma introdução breve do tema. Logo depois comecei a geração de imagens com inteligência atificial para retratar a atmosfera da lenda. Após, dei inicio a montagem do vídeo com avatar e áudio gerado por IA, introduzindo as imagens e legenda.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Temos como resultado um video breve contando de Ana e as histórias de seu avô, na roça, sobre lobisomem e o medo que a criatura levou a gerações. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+A IA está presente na nossa vida e isso não mudará, cada dia ela estará mais e mais inserida em nosso dia a dia, com isso, as pessoas precisa aprender a se questionar e tentar sempre diferenciar conteúdos reais de conteúdos não reais que podem ser prejudiciais. 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Para diferenciar conteúdos criados por Inteligências Artificiais (IAs), utilize estratégias como verificação de fontes, autenticação multimodal, análise de metadados, detecção de anomalias visuais e de linguagem, além do envolvimento da colaboração humana. Também é crucial investir em treinamento de modelos de IA detetores, transparência nas plataformas e educação do público para promover um ambiente online mais seguro e confiável.
+
+A IA veio para facilitar nossa vida e tornar nosso cotidiano menos complicado, porém toda técnologia tem seus prós e contras e precisamos aprender a lidar com ambos.
 
 ## Links Interessantes
 
